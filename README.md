@@ -1,2 +1,0 @@
-# Snyp
-Projekt SNYP
